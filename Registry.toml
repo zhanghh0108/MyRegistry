@@ -4,4 +4,5 @@ repo = "https://github.com/zhanghh0108/MyRegistry.git"
 description = "My private registry"
 
 [packages]
+a83cd076-e915-4cb9-a715-08bbcfc3b500 = { name = "MyPackage2", path = "M/MyPackage2" }
 b303c9e3-fd2a-4df6-8c6a-d018bc3a3699 = { name = "MyPackage3", path = "M/MyPackage3" }
