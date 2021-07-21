@@ -1,0 +1,3 @@
+name = "MyPackage5"
+uuid = "a7f6482b-1d1e-4b65-8140-dfb0620cf013"
+repo = "http://zhh:zhh_suzhou@172.16.1.35:6688/syslab/zhh_test.git"
