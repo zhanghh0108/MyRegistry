@@ -1,3 +1,3 @@
 name = "MyPackage"
 uuid = "2eee177d-d534-4dfe-8aa5-fbecb66f4567"
-repo = "http://172.16.1.35:6688/syslab/dev/MyPackage"
+repo = "http://172.16.1.35:6688/syslab/dev/MyPackage.git"
